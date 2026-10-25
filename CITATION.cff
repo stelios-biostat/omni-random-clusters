@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use this benchmark module, please cite it using these metadata."
+title: "omni-random-clusters: random clustering baseline"
+authors:
+  - family-names: Sfondylis
+    given-names: Stylianos
+version: 1.0
+license: MIT
